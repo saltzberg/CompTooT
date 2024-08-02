@@ -1,0 +1,24 @@
+{
+  "name": "comptoot-1",
+  "version": "1.0.0",
+  "description": "Computational Tool Tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server/server.js",
+    "test": "jest"
+  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

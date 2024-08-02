@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#urlForm {
+  margin-bottom: 20px;
+}
+
+#urlInput {
+  width: 70%;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+#results {
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 100px;
+}
